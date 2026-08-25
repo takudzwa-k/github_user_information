@@ -25,5 +25,3 @@
   - `Profile URL` → Direct link to view this user's GitHub profile page.
 
 **Project URL:** https://roadmap.sh/projects/github-user-activity
-
-```
