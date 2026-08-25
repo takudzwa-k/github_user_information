@@ -1,16 +1,16 @@
-# Github User Activity
+# Github User Information
 
 ## 📖 Description
 
-**github user activity** is a simple command line interface (CLI) to fetch the recent activity of a GitHub user and display it in the terminal. 
+**github user information** is a simple command line interface (CLI) to fetch the profile information of a GitHub user and display it in the terminal. 
 
 ---
 
 ## ✨ Features
 
 - **Add a username** → Provide the GitHub username as an argument when running the CLI.
-- **Get user information** → Fetches the recent activity of the specified GitHub user using the GitHub API.
-- **Display information** → Display the fetched activity in the terminal.
+- **Get user information** → Fetches the info of the specified GitHub user using the GitHub API.
+- **Display information** → Display the fetched info in the terminal.
 
 ## 🗂   Displayed Information
 
@@ -23,5 +23,3 @@
   - `Followers` → How many other GitHub users follow this account.
   - `Following` → How many other GitHub users this account follows.
   - `Profile URL` → Direct link to view this user's GitHub profile page.
-
-**Project URL:** https://roadmap.sh/projects/github-user-activity
