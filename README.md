@@ -2,7 +2,7 @@
 
 ## 📖 Description
 
-**github user information** is a simple command line interface (CLI) to fetch the profile information of a GitHub user and display it in th terminal. 
+**github user information** is a simple command line interface (CLI) to fetch the profile information of a GitHub user and display it in the terminal. 
 
 ---
 
