@@ -1,4 +1,4 @@
-# Github User Informatio
+# Github User Information
 
 ## 📖 Description
 
